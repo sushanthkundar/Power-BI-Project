@@ -1,1 +1,1 @@
-# Power-BI-Project
+Conducted a comprehensive analysis of T20 cricket match data, including player performance metrics, team statistics, and match outcomes. Utilized Python and Pandas for data cleaning and analysis. Designed and implemented an interactive dashboard to visualize T20 cricket player performance data, leveraging Power BI for dynamic reporting. Integrated data from multiple sources to track metrics such as batting and bowling averages, strike rates, and match impact etc.
